@@ -38,23 +38,17 @@ Final-year CS student, building full-stack systems and moving into machine learn
 
 ---
 
-### Projects
+### Projects --rebuilding in progress
 
-**SkillForge — Learning Management Platform**
-`React.js` `Node.js` `Express.js` `Python` `MySQL` `MongoDB`
-Full-stack platform for tracking learning progress and skill acquisition. Python services handle dynamic content delivery and user analytics; relational (MySQL) and document (MongoDB) models split structured and flexible course/user data.
+Earlier versions of these were lost along with the machine they were built on. Rebuilding from scratch — repo links go live here as each one ships.
 
-**Smart Farming Dashboard**
-`Python` `React.js` `MySQL`
-Dashboard visualizing agricultural sensor metrics to support farming decisions. Python handles the data processing layer that turns raw sensor readings into actionable insights.
+**Smart Farming Dashboard — Python React.js MySQL — in progress Dashboard for visualizing agricultural sensor metrics to support farming decisions.
 
-**Prepilot — Interview Preparation Tool**
-`React.js` `Node.js` `Express.js`
-Web platform for curated coding challenges and mock interview workflows, with RESTful APIs and a responsive UI.
+**Bus Reservation System — Java MySQL JDBC — planned Seat-booking system with real-time availability tracking.
 
-**Bus Reservation System**
-`Java` `MySQL` `JDBC`
-Seat-booking system with real-time availability tracking, built on JDBC and relational schema design.
+**Prepilot — Interview Preparation Tool — React.js Node.js Express.js — planned Curated coding challenges and mock interview workflows.
+
+**SkillForge — Learning Management Platform — React.js Node.js Express.js Python MySQL MongoDB — planned Platform for tracking learning progress and skill acquisition.
 
 ---
 
