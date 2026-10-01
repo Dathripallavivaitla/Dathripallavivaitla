@@ -31,6 +31,7 @@ Final-year CS student, building full-stack systems and moving into machine learn
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,17 +39,16 @@ Final-year CS student, building full-stack systems and moving into machine learn
 
 ---
 
-### Projects --rebuilding in progress
+### Projects
 
-Earlier versions of these were lost along with the machine they were built on. Rebuilding from scratch — repo links go live here as each one ships.
+**Smart Resume Screening System — Python Flask React.js — completed**  
+Resume screening application using skill matching, TF-IDF similarity, resume quality scoring, and automated candidate insights.
 
-**Smart Farming Dashboard — Python React.js MySQL — in progress Dashboard for visualizing agricultural sensor metrics to support farming decisions.
+**CareerHub — React.js Node.js Express.js MongoDB — completed**  
+Student career dashboard for managing skills, projects, certifications, career goals, and career progress.
 
-**Bus Reservation System — Java MySQL JDBC — planned Seat-booking system with real-time availability tracking.
-
-**Prepilot — Interview Preparation Tool — React.js Node.js Express.js — planned Curated coding challenges and mock interview workflows.
-
-**SkillForge — Learning Management Platform — React.js Node.js Express.js Python MySQL MongoDB — planned Platform for tracking learning progress and skill acquisition.
+**Smart Farming Dashboard — Python React.js MySQL — in progress**  
+Dashboard for visualizing agricultural sensor metrics to support farming decisions.
 
 ---
 
