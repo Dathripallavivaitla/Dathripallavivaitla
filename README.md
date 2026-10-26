@@ -10,7 +10,7 @@ Final-year CS student, building full-stack systems and moving into machine learn
 
 </div>
 
----
+------
 
 ### About
 
@@ -50,7 +50,7 @@ Student career dashboard for managing skills, projects, certifications, career g
 **Smart Farming Dashboard — Python React.js MySQL — in progress**  
 Dashboard for visualizing agricultural sensor metrics to support farming decisions.
 
----
+-----
 
 ### GitHub Stats
 
